@@ -1,0 +1,10 @@
+INSERT INTO study_load.subjects (`id`, `title`, `hours`, `type`) VALUES (DEFAULT, 'Математический анализ', 120, 'лекция');
+INSERT INTO study_load.subjects (`id`, `title`, `hours`, `type`) VALUES (DEFAULT, 'Математический анализ', 120, 'практика');
+INSERT INTO study_load.subjects (`id`, `title`, `hours`, `type`) VALUES (DEFAULT, 'Алгебра и теория чисел', 80, 'лекция');
+INSERT INTO study_load.subjects (`id`, `title`, `hours`, `type`) VALUES (DEFAULT, 'Алгебра и теория чисел', 60, 'практика');
+INSERT INTO study_load.subjects (`id`, `title`, `hours`, `type`) VALUES (DEFAULT, 'Дискретная математика', 70, 'лекция');
+INSERT INTO study_load.subjects (`id`, `title`, `hours`, `type`) VALUES (DEFAULT, 'Дискретная математика', 70, 'практика');
+INSERT INTO study_load.subjects (`id`, `title`, `hours`, `type`) VALUES (DEFAULT, 'Дифференциальные уравнения', 60, 'лекция');
+INSERT INTO study_load.subjects (`id`, `title`, `hours`, `type`) VALUES (DEFAULT, 'Дифференциальные уравнения', 60, 'практика');
+INSERT INTO study_load.subjects (`id`, `title`, `hours`, `type`) VALUES (DEFAULT, 'Информационные технологии', 40, 'лекция');
+INSERT INTO study_load.subjects (`id`, `title`, `hours`, `type`) VALUES (DEFAULT, 'Базы данных', 40, 'лекция');
